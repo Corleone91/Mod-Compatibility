@@ -33,3 +33,6 @@ https://github.com/tiltedphoques/Mod-Compatibility/issues?q=is%3Aissue+is%3Aopen
 #### By Incompatibility
 
 https://github.com/tiltedphoques/Mod-Compatibility/issues?q=is%3Aissue+is%3Aopen+label%3AIncompatible
+
+Dragonisser please make editable page for this. I have checked all these mods and mark them.
+https://drive.google.com/file/d/17h5VQ7ciovtU1mvLnCKWXDuGbBhetKMi/view?usp=share_link
